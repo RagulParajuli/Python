@@ -1,0 +1,11 @@
+m=int(input("Enter first number:"))
+n=int(input("Enter second number:"))
+ans1 = m+n
+print("The value of",m,"+",n,"is:",ans1)
+ans2 = m-n
+print("The value of",m,"-",n,"is:",ans2)
+ans3 = m*n
+print("The value of",m,"*",n,"is:",ans3)
+ans4 = m/n
+print("The value of",m,"/",n,"is:",ans4)
+print("The value of 
